@@ -1,3 +1,3 @@
-# Headline
+# 简介
 
-> An awesome project.
+> 本文档主要用于简历小象科技前端技术规范，内容仅供参考。
